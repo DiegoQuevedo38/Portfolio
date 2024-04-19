@@ -1,0 +1,28 @@
+{
+    "activeFile": "2D-Portfolio/public/map.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "2D-Portfolio/public/map.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 254.99999999999997,
+                "y": 102.66666666666664
+            }
+        },
+        "spritesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "2D-Portfolio/public/map.json",
+        "spritesheet.tsx"
+    ],
+    "recentFiles": [
+        "spritesheet.tsx",
+        "2D-Portfolio/public/map.json"
+    ]
+}
